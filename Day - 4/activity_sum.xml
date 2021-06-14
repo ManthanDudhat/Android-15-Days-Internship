@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SumActivity"
+    android:orientation="vertical">
+
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/etnum1"
+    android:hint="Enter First Number"
+    android:textSize="30sp"
+    android:inputType="number"
+    android:textColorHint="#094AF3"
+    />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etnum2"
+        android:inputType="number"
+        android:hint="Enter Second Number"
+        android:textSize="30sp"
+        android:textColorHint="#094AF3"
+        />
+
+    <Button
+        android:id="@+id/btnRes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Submit"
+        android:layout_marginTop="10dip"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvRes"
+        android:textSize="30sp"
+        android:textColor="#3103FB"
+        android:layout_marginTop="20dip"/>
+
+
+</LinearLayout>
