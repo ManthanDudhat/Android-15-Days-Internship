@@ -1,6 +1,6 @@
-**#Dudhat Manthan Vipulbhai **
+** #Dudhat Manthan Vipulbhai **
 
-**#Sem 6-7 Intermediatec 2 Weeks Internship **
+** #Sem 6-7 Intermediatec 2 Weeks Internship **
 
 College Name:- Ahmedabad Institute of Technology
 
