@@ -1,6 +1,6 @@
-**Dudhat Manthan Vipulbhai **
+**#Dudhat Manthan Vipulbhai **
 
-**Sem 6-7 Intermediate 14 Days(2 Weeks, 24th May to 16th June) Internship **
+**#Sem 6-7 Intermediatec 2 Weeks Internship **
 
 College Name:- Ahmedabad Institute of Technology
 
