@@ -24,7 +24,7 @@ MediaPlayer player;
             @Override
             public void run() {
                 try {
-                    sleep(3000);
+                    sleep(4000);
                 }
                 catch (InterruptedException e)
                 {
